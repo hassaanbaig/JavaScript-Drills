@@ -1,0 +1,19 @@
+.BGColor
+{
+    background: black;
+
+}
+
+h1{
+    color: whitesmoke;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+table
+{
+    text-align: center;
+    margin-left:  25em;
+    padding: 2px;
+    background: lightgray;
+
+}
